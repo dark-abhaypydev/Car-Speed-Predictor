@@ -1,4 +1,7 @@
+Click here -->> "https://car-speed-predictor.streamlit.app/"
+
 CAR SPEED & RPM PREDICTION DASHBOARD
+
 
 1. Install Python 3.10 or newer.
 2. Open a terminal in this folder.
